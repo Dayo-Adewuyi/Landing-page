@@ -98,7 +98,7 @@ const TypeWriterText = () =>{
             </Title>
             <SubTitle>Experience the Future of Asset Tokenization</SubTitle>
             <ButtonContainer>
-                <Button text="Explore" link="#about" />
+                <Button text="Explore" link="https://glebe-dao.vercel.app/" />
             </ButtonContainer>
         </>   
     )
