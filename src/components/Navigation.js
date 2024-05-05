@@ -158,7 +158,9 @@ return(
     </Menu>
     
     <div className="desktop">
-    <Button text="Open App" link="https://github.com/Dayo-Adewuyi"/>
+     <a href="https://glebe-dao.vercel.app">
+            <Button text="Open App" />
+        </a>
     </div>
     </Navbar>
 </Section>
